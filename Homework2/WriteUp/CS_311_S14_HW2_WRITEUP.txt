@@ -1,0 +1,49 @@
+NAME: Ian Paul
+EMAIL: pauli@onid.oregonstate.edu
+CLASS: CS311-400
+ASSIGNMENT: Homework 2
+
+This is a list of all the references I used while working on Homework 2. This is also a statement that I worked with Emma Paul and Andrew Geotz. We talked about problems we were having and would share links that we found helpful when encountering problems. All the code written was our own. Any similarity in code that we may have would be coincidental, and might be explained because we used the same solutions to problems that we saw on the links we shared with each other. 
+
+http://stackoverflow.com/questions/15963707/python-displays-all-of-the-prime-numbers-from-1-through-100
+http://www.tutorialspoint.com/python/list_len.htm
+https://docs.python.org/2/library/stdtypes.html
+http://stackoverflow.com/questions/3885937/finding-the-nth-prime-number-using-python
+http://www.youtube.com/watch?v=ZcuHd4utPlU&feature=youtu.be
+https://docs.python.org/2/howto/urllib2.html
+http://linux.about.com/od/commands/l/blcmdl1_wget.htm
+http://www.youtube.com/watch?v=mHUtFIJv8dk
+http://stackoverflow.com/questions/22676/how-do-i-download-a-file-over-http-using-python
+https://www.python.org/
+https://docs.python.org/2/tutorial/inputoutput.html#methods-of-file-objects
+http://stackoverflow.com/questions/12271503/python-read-numbers-from-text-file-and-put-into-list
+http://primes.utm.edu/lists/small/10000.txt
+http://www.numberempire.com/20357
+http://www.gnu.org/software/libc/manual/html_node/Aborting-a-Program.html
+http://pubs.opengroup.org/onlinepubs/009695399/functions/getopt.html
+http://bytes.com/topic/net/answers/624235-compile-error-storage-size-var-isnt-known
+http://bytes.com/topic/c/answers/510894-error-storage-size-frm-isnt-known
+http://stackoverflow.com/questions/3138600/correct-use-of-stat-on-c
+http://stackoverflow.com/questions/11700593/creating-files-and-directories-via-python
+https://docs.python.org/2/library/getopt.html
+https://docs.python.org/2/library/os.html
+http://www.daniweb.com/software-development/python/threads/258645/creating-symbolic-link-using-os.symlink
+http://www.unix.com/unix-for-dummies-questions-and-answers/77191-file-organization-bin-src.html
+https://github.com/sindresorhus/weechat-notification-center/issues/1
+http://stackoverflow.com/questions/3430372/how-to-get-full-path-of-current-directory-in-python
+http://www.stealthcopter.com/blog/2009/09/python-making-multi-depth-directories/
+http://www.mathworks.com/help/matlab/ref/mkdir.html
+http://www.tutorialspoint.com/python/os_makedirs.htm
+http://stackoverflow.com/questions/11237096/how-do-i-replace-os-systemmkdir-testname-with-subprocess-call-in-python
+http://stackoverflow.com/questions/13819496/what-is-different-between-makedirs-and-mkdir-of-os
+http://stackoverflow.com/questions/10442057/python-subprocess-popen-to-create-a-new-directory
+http://stackoverflow.com/questions/60208/replacements-for-switch-statement-in-python
+http://www.daniweb.com/software-development/python/threads/258645/creating-symbolic-link-using-os.symlink
+https://docs.python.org/2/library/os.html
+https://docs.python.org/2/library/getopt.html
+http://stackoverflow.com/questions/11700593/creating-files-and-directories-via-python
+http://pubs.opengroup.org/onlinepubs/009695399/functions/getopt.html
+https://www.cs.rutgers.edu/~pxk/416/notes/c-tutorials/getopt.html
+http://www.gnu.org/software/libc/manual/html_node/Example-of-Getopt.html
+https://docs.python.org/2/tutorial/inputoutput.html#methods-of-file-objects
+

@@ -1,0 +1,69 @@
+*NAME: Ian Paul
+*EMAIL: pauli@onid.oregonstate.edu
+*CLASS: CS311-400
+*ASSIGNMENT: Homework 6
+
+Write Up
+
+I worked on this homework with Emma Paul and a tutor. We talked out problems when we encountered them, talked through the assignment to try to make sense of the instructions, and shared any references we felt were helpful. We wrote our own code, and any similarity may be due to using the same reference material. 
+
+Questions about assignment:
+In order to make sure that no one process or thread was to lock and unlock the shared memory objects, while also changing other shared memory objects. The bit map could be affected by all the processes/threads at the same time, while the current or next prime was locked and unlocked, making sure that no two threads/processes worked on the same prime. I am sure that there would have been a way to completely balance the work by cutting it up into equal counts or something, but this seemed like an adequate way of doing it. 
+
+
+
+References
+
+http://www.boost.org/doc/libs/1_35_0/doc/html/interprocess/sharedmemorybetweenprocesses.html
+
+http://primes.utm.edu/largest.html
+
+http://man7.org/linux/man-pages/man2/mmap.2.html
+
+https://publib.boulder.ibm.com/infocenter/iseries/v5r3/index.jsp?topic=%2Fapis%2Fapiexusmem.htm
+
+http://stackoverflow.com/questions/16931770/makefile4-missing-separator-stop
+
+http://www.cplusplus.com/reference/ctime/time/
+
+http://stackoverflow.com/questions/5248915/execution-time-of-c-program
+
+http://man7.org/linux/man-pages/man3/pthread_exit.3.html
+
+http://en.wikipedia.org/wiki/Semaphore_%28programming%29
+
+http://h30097.www3.hp.com/docs/base_doc/DOCUMENTATION/V50_HTML/ARH9TATE/SHMCHPXX.HTM
+
+http://gizmodo.com/5912383/how-to-destroy-the-internet
+
+http://www.techrepublic.com/article/shared-memory-where-it-belongs-in-the-computer-space/
+
+http://www.dreamincode.net/forums/topic/124995-how-to-calculate-a-process-time-to-secondsmilliseconds-resolved/
+
+http://www.mathsisfun.com/numbers/factors-multiples-table.html
+
+http://www.domaigne.com/blog/computing/joinable-and-detached-threads/
+
+http://cedric-augonnet.com/erastothene-sieve-using-processes/
+
+http://www.tutorialspoint.com/c_standard_library/c_function_ceil.htm
+
+http://stackoverflow.com/questions/2338778/what-is-the-maximum-length-of-an-array-in-net-on-64-bit-windows
+
+http://stackoverflow.com/questions/2962785/c-using-clock-to-measure-time-in-multi-threaded-programs
+
+http://stackoverflow.com/questions/11624545/how-to-make-main-thread-wait-for-all-child-threads-finish
+
+http://softpixel.com/~cwright/programming/threads/threads.c.php
+
+http://stackoverflow.com/questions/11344965/how-to-include-static-library-in-makefile
+
+http://stackoverflow.com/questions/18407917/what-is-missing-in-my-makefile
+
+http://www.diffen.com/difference/Calloc_vs_Malloc
+
+http://www.mathsisfun.com/prime_numbers.html
+
+
+
+

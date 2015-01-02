@@ -1,0 +1,54 @@
+NAME: Ian Paul
+EMAIL: pauli@onid.oregonstate.edu
+CLASS: CS311-400
+ASSIGNMENT: Homework 3
+
+Homework 3 Write Up
+
+I worked with Emma Paul and Andrew Geotz on this assignment. We talked things out when we encountered problems, and shared any useful links that we found. We wrote our own code, any similarities in code might be explained by our using the links as references. 
+
+I also included my "symLinkCreator.py" file that I created. This file, when
+ran, creats the symbolic links to the texts in whatever directory that it was
+run in. While not needed or graded, I wanted to keep it just for my own
+reference. Feel free to look at it, but I am not expecting it to influence my
+grade at all. 
+
+References:
+
+http://www.computerhope.com/unix/ftp.htm
+
+http://srcco.de/posts/writing-python-command-line-scripts.html
+
+http://www2.its.strath.ac.uk/courses/c/section3_9.html
+
+http://codewiki.wikidot.com/c:system-calls:lseek
+
+http://codewiki.wikidot.com/c:system-calls:write
+
+http://gd.tuwien.ac.at/languages/c/programming-bbrown/c_075.htm
+
+http://www.gnu.org/software/libc/manual/html_node/File-Positioning.html
+
+http://www.codingunit.com/c-tutorial-file-io-using-text-files
+
+http://web.engr.oregonstate.edu/~chaneyr/lectures/7-file_reverse.mp4
+
+http://en.wikipedia.org/wiki/Write_%28system_call%29
+
+http://linux.die.net/man/3/open
+
+http://codewiki.wikidot.com/c:system-calls:write
+
+http://www.cs.bu.edu/teaching/c/file-io/intro/
+
+http://www.programmingsimplified.com/c-program-read-file
+
+http://linux.die.net/man/3/read
+
+http://codewiki.wikidot.com/c:system-calls:stat
+
+http://www.gnu.org/software/libc/manual/html_node/Testing-File-Type.html
+
+http://www.bookrags.com/notes/il/top3.html
+
+

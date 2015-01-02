@@ -1,0 +1,63 @@
+NAME: Ian Paul
+EMAIL: pauli@onid.oregonstate.edu
+CLASS: CS311-400
+ASSIGNMENT: Homework 1 Questions 2-5
+
+Write Up
+
+2) What are Revision Control Systems? Why are they useful? Name 4 examples of revision control systems. List 3 common commands for each of the 3 revision control systems you identify. 
+Revision control systems are ways to keep updates organized. When working by yourself, they might seem redundant because you simply open your project, work on it, then save it, thus not needing any different versions. However, when working with others on a team, the project can become increasingly complex and knowing which version is the “right” version can be almost impossible. That’s why Revision Control Systems are so useful. They help keep updates organized so that everyone knows what is the latest version, and which versions they should be working on. 
+
+4 examples of revision control systems are: 
+
+1: CVS (Concurrent Version System)
+2: Apache Subversion
+3: Mercurial
+4: Git
+I want to also include Adobe Version Cue on the list just because I have used it in the past, but it has been discontinued to make way for the Adobe Creative Cloud, which I haven’t tried yet. 
+
+3 Common Commands for each of the systems are:
+
+1: Merging. Ways for multiple parties working on the same version to merge their updates into the same file. 
+2: Branching. Ways for people to easily reference at which point they started off on a different direction. 
+3: Check in/out system. When certain files are very sensitive and merging isn’t an option, checking it in or out will ensure that only one person is working on it at a time. 
+4: Archiving. When you feel like you have to go back to an earlier version, it is accessible. 
+
+3) Describe the difference between redirection and piping on Unix.
+
+Redirect sends the output to a file, whereas piping sends the output to a command. This is important because if you run a command and want the output to be used as input in another command, you can do that with piping. However, if you were to attempt the same thing with a redirect, you might just overwrite a file. 
+
+4) Give a find command that will run file command on every regular file within the current file system sub-tree. 
+
+find ./ -type f | file -f –
+
+5) What is the Unix command make, and how is it useful?
+
+The Unix command make makes use of a file called “makefile”. The makefile tells how the files in your program interact and gives the commands for updating each file. When you have your makefile in your program directory, you simply type in “make” and hit enter to run it. This saves you the step of recompiling ever individual file. For simple programs where you only have 1-3 files, this might seem like more work, but when you work on big programs that have hundreds of files, the makefile will be very helpful and save tons of time. 
+
+References for questions and for help when writing code:
+
+http://www.programmingsimplified.com/c-program-read-file
+https://docs.python.org/3/tutorial/introduction.html
+http://effbot.org/zone/python-list.htm
+https://docs.python.org/2/using/cmdline.html
+https://docs.python.org/2/tutorial/controlflow.html
+http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/io.html
+http://askubuntu.com/questions/172982/what-is-the-difference-between-redirection-and-pipe
+http://linux.about.com/library/cmd/blcmdl1_make.htm
+http://www.smashingmagazine.com/2008/09/18/the-top-7-open-source-version-control-systems/
+http://forums.adobe.com/message/3177311
+http://git-scm.com/about
+http://mercurial.selenic.com/
+http://subversion.apache.org/features.html
+http://www.nongnu.org/cvs/
+http://stackoverflow.com/questions/5905054/how-can-i-recursively-find-all-files-in-current-and-subfolders-based-on-wildcard
+http://www.linfo.org/file_command.html
+http://content.hccfl.edu/pollock/unix/findcmd.htm
+https://docs.python.org/2/tutorial/errors.html
+http://stackoverflow.com/questions/16488278/how-to-check-if-a-variable-is-an-integer-or-a-string
+http://www.codersgrid.com/2013/06/19/introduction-to-list-set-tuple-and-dictionary-in-python/
+http://vim-ers.livejournal.com/7674.html
+https://docs.python.org/2/library/commands.html
+http://ubuntuforums.org/showthread.php?t=1659623&page=2&s=71bc363037cf70cc5f5f1c833ca76a59
+
